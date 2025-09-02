@@ -1,0 +1,7 @@
+__ pycache__/
+*.pyc
+.env
+.venv/
+.dbfs/
+.databricks/
+.ipynb_chechpoints/
