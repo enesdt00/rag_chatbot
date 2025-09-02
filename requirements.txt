@@ -1,0 +1,5 @@
+pypdf 
+sentence-transformers==2.2.2
+numpy
+pandas
+pytest
